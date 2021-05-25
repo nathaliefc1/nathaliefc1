@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-✨ Hi. I'm Nathalie Fajardo
+✨  I'm Nathalie Fajardo
 
-- 🌱 I’m currently learning in Core Code School - Bootcamp
-- 🔭 My babies projects: Uma Spaceship  - Cryptonat
-- 👯 I’m open to work
-- 💬 Ask me about my projects
+-  ⛅ I just finish a Bootcamp at [https://www.corecode.school/](https://www.corecode.school/) - CLOUD NATIVE WEB DEVELOPMENT
+-  👍🏼 I’m open to work
+- My projects: 
+-    💘 Tindog: [https://nathaliefc1.github.io/tindog/index.html](https://nathaliefc1.github.io/tindog/index.html)
+-    🚀 Uma Spaceship: [https://nathaliefc1.github.io/uma_spaceship_canvas_javascript/](https://nathaliefc1.github.io/uma_spaceship_canvas_javascript/)
+-    💰 Cryptonat: [https://cryptonat.herokuapp.com/](https://cryptonat.herokuapp.com/)
+
 - 📫 How to reach me: nathaliefc89@gmail.com 
-- ⚡ Fun fact: Umichumi 🐕
 - ⚡ Technologies: 
-JavaScript - Nodejs - React - HTML - CSS - Bootstrap - TypeScript - JSON - Nextjs
+JavaScript - Next.js - Node.js - React - TypeScript - Auth0 - HTML - CSS - Bootstrap - JSON - Heroku
