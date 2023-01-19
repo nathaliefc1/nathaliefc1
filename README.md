@@ -3,7 +3,7 @@
 ✨  I'm Nathalie Fajardo
 
 I just finish a Bootcamp at [https://www.corecode.school/](https://www.corecode.school/) - CLOUD NATIVE WEB DEVELOPMENT
-I have Site Reliability Engineer experience at Eventbrite.com
+I have Site Reliability Engineer experience at Eventbrite.com and IT business analyst at Devops team in SanneGroup.
 
 -  👍🏼 I’m open to work
 
@@ -19,4 +19,4 @@ My projects:
 
 📫 How to reach me: nathaliefc89@gmail.com 
 - ⚡ Technologies: 
-JavaScript - Next.js - Node.js - React - TypeScript - Auth0 - HTML - CSS - Bootstrap - JSON - AWS - Terraform - Datadog
+JavaScript - Next.js - Node.js - React - TypeScript - Auth0 - HTML - CSS - Bootstrap - JSON - AWS - Terraform -
