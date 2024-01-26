@@ -11,7 +11,8 @@ I have Site Reliability Engineer experience at Eventbrite.com and IT business an
 My projects:
 -    🇸🇱 ONG Web: [(https://www.savinglivesinsierraleone.org/)](https://www.savinglivesinsierraleone.org/)
 -    🧡 Project: Migrate private hosted repositories to AWS hosted GitHub Enterprise. (Eventbrite.com)
-          Utilized Infrastructure as Code via Terraform to deploy a Github Enterprise server in AWS EC2, allowing the SRE team to migrate private repositories and take advantage of Pull Requests and Code reviews.
+  Utilized Infrastructure as Code via Terraform to deploy a Github Enterprise server in AWS EC2, allowing the SRE team to migrate private repositories and take advantage of Pull Requests and Code reviews.
+-    🇦 Wordle Game: [(https://github.com/nathaliefc1/wordlegame-react)](https://github.com/nathaliefc1/wordlegame-react)     
 -    🖍️ Color Website: [https://nathaliefc1.github.io/website1](https://nathaliefc1.github.io/website1)
 -    💘 Tindog: [https://nathaliefc1.github.io/tindog/index.html](https://nathaliefc1.github.io/tindog/index.html)
 
